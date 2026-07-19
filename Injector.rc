@@ -1,0 +1,4 @@
+#include "Resource.h"
+IDI_MKINJECTOR ICON "icon.ico"
+IDI_SMALL      ICON "icon.ico"
+1 DLL "dll.dll"
